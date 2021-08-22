@@ -6,6 +6,8 @@
 !.env.default
 
 dist/
+images/
+masks/
 .idea
 .vscode
 .coverage
